@@ -1,0 +1,144 @@
+1. What is Japanese Bridge System Engineer?
+Surely when listening to Bridge Engineer, many people will think of road or technical engineer.
+
+But actually,  Bridge System Engineer (BrSe) is the person who has the responsibility to connect company and business partner.
+
+Bridge System Engineer vision is to help two parties understand each other better so that the project become smoother, more prosperous with the higher result. The specific of the Japanese Bridge System Engineer is to monitor the project from beginning till the end.
+
+2. The reason why Bridge System Engineer plays many roles?
+
+
+Bridge Engineer’s main mission is to exchange information with clients, set plan and goal, and control the progress of the project. In addition, Bridge Engineer is responsible to check, complete and deliver product to the client when the project finished.
+
+
+
+All these tasks strongly affect the success of the project, so that why the Japanese Bridge Engineer is very important to each business.
+
+3. Daily tasks of BrSE
+3.1. Daily task
+The daily task of BrSE depends on the enterprise’s business field. However, most of them are delivered tasks as follows:
+
+Managing and processing email, communicating with clients.
+Daily planning.
+Following and ensuring the process of the project.
+Reporting process of project weekly and monthly.
+It can be seen that BrSE task is the alternation of company and clients to ensure the unification and close cooperation of both parties. Besides, it is necessary to update the project situation for two parties.
+
+3.2. Depending on each stage of the project.
+Tasks of BrSE will change a lot when the project starts and in each stage of the project. The specific task will be divided as follows:
+
+Beginning of project：Research, set plan and get ready.
+During the project: Manage and monitor the project, change strategies and methods to enhance project productivity and quality.
+Ending of project：Summarize and test products before delivering to clients.
+BrSE job is quite hard and requires flexibility and acumen to adapt to specific condition and situation to achieve high efficiency.
+
+4. Salary of BrSE.
+Let’s find out the basic salary of BrSE:
+4.1. Beginner
+This is the first stage when BrSE does not have much experiences and skills. Therefore, at this beginning, novice BrSE will be working with experienced BrSE and the salary is about 2000 USD.
+
+ 4.2. Level 1
+In this level, BrSE can work individually and especially, the Japanese level must be N2. To reach level 1, BrSE needs to spend 1-2 years of practical working experience, and salary can be archived is over 2000-3000 USD.
+
+4.3. Level 2
+In this level, BrSE should improve situation handling skill and communication skill has been enhanced. The salary at this level is about 3000-4000 USD.
+
+4.4. Level 3
+Different from above levels, level 4 requires BrSE not only works individually but also be able to orient plan, work with clients and participate in signing contract. The salary is over 4000-6000 USD.
+
+4.5. Level 4
+In this highest level, BrSE has enough ability and condition to be able to establish its own company. Salary at this time will not be converted but will be based on the profits and the exchange of each project.
+
+
+
+ 5. Which personalities does BrSE need?
+5.1. Patience
+Each BrSE needs to spend at least 2 years working individually. During that time, it is necessary to patiently study and practice.
+
+5.2. High responsibility
+BrSE will follow from the beginning until the end of each project, that’s why BrSE should have high responsibility.
+
+5.3. Study hard
+“Study” is never enough, especially for BrSE job, because there are a lot of skills and knowledge that a BrSE needs to study and improve.
+
+5.4. Calmness
+A BrSE needs to be patient and calm to handle and solve problems when BrSE has to contact with many individuals.
+
+6. What should Japanese BrSE need to learn?
+Because of high requirements, BrSE should be equipped with lots of skills and knowledge to get the client’s trust and to create a personal brand in the economic market.
+
+6.1. Language.
+To communicate fluently and study, BrSE’s Japanese is at least at the N2 level. Moreover, English is considered an advantage to approach foreign market and client.
+
+
+
+6.2. Hard skill.
+Acquiring specialized knowledge is essential to work effectively and avoid mistakes.
+
+
+
+6.3. Soft skill.
+When communicating with clients, Soft skill is extremely important to rapidly get deal and cooperation.
+
+
+
+6.3. Economic knowledge.
+BrSE requires a lot of skills and knowledge, so having an economic knowledge base is very helpful for predicting the market to have reasonable plans and changes to work effectively.
+
+
+
+7. BrSE recruitment information.
+Nowadays, due to the development and expansion of the market, the role and position of BrSE are more and more enhanced. Let’s read the following suggestions to get more information about BrSE recruitment:
+
+
+
+7.1. BrSE requirements of Offshore project.
+Japanese is equivalent to N2, fluent communication.
+At least 1 year of experience in project management to a Japanese client.
+Having experience and proficiency in one of the programming languages such as PHP / Java / .Net / iOS / Android, etc.
+7.2. Sub-BrSE requirements of Offshore project.
+Japanese is at least N3, fluent communication.
+Having experience and proficiency in one of the programming languages such as PHP / Java / .Net / iOS / Android, etc.
+Used to be Team leader/ Tech leader is an advantage.
+For Sub-BSE position, there will be an opportunity to participate in training orientation to become BrSE in Japan and Vietnam.
+
+
+Japanese BrSE not only brings sustainable income but also enhance communication skill and adapt to the various working environment. Hopefully, the above article could improve comprehensive information about BrSE.
+If you’re interested in how to build an Agile team, this article is perfect for you.
+
+Creating good software apps helps your company to maintain and thrive. A well-controlled process is the only way to guarantee a good product.
+
+The agile team will help you develop an app effectively. But first, what is Agile?
+
+What is Agile?
+Khóa học Agile - Khóa học phát triển phần mềm linh hoạt | Học viện Agile
+
+Agile is a flexible software development method and project management that delivers products to users the fastest with minimal problems. Instead of risking on a one-time product release after everything is done, the Agile team will release one piece at a time but are guaranteed to be usable. All the requirements, plans, and outcomes are evaluated continuously so the development team can change quickly to suit reality.
+
+How did Agile get started?
+Before the 1990s of the 20th century, there was a crisis in software development methodology globally. This crisis was many weaknesses in the traditional methods and a high rate of project failure. Many individuals and private companies have self-discovered and developed many methods to adjust to new situations, where the business environment’s factors and technology change rapidly, causing traditional development methods to be no longer suitable. These individual methods partly solve some problems but create other problems of sharing, collaboration, techniques, tools, extensions, development directions, etc.
+That’s why, in February 2001, seventeen developers who represented the new development method met in Utah to establish the document called Agile Manifesto with 12 principles thanks to consensus in methods. This was the time the Agile terminology used widely nowadays. Even individual methods have existed before.
+
+Roles in the Agile Method
+User: Clear target audience begins the process. By defining the exact users’ characteristics, those functions help build all the multiple standards/requirements in the workflow that software supports.
+
+Product Owner: Are the main stakeholders or the main users of the soon-to-be-developed app. A product owner is a representative of the customers and the final authority. They’re always ready when anyone has any doubts that need clarification. The most important thing that the Product Owner needs to understand is no requirement addition between the sprint phase or the beginning of the sprint.
+
+Software development team: In Agile, programmers are involved in developing specific functions. They can have different skills, and some even are good at certain skills.
+
+Moreover, the Software development team includes quality assurance engineers (QA) and other programmers (such as databases and backend systems), designers, and analysts, which depends on the type of project.
+
+Agile Methods (Agile Frameworks)
+Agile Là Gì- Bật Mí Công Cụ Quản Lý Dự Án Theo Agile
+
+Scrum
+The most common and widely used Agile Framework is Scrum, a management and control process applied in software development projects. It helps eliminate all the workflow’s complexity and focuses only on the necessary steps to meet the customers’ needs. Scrum can be considered a Framework or a set of practices for being applied in software development.
+
+Scrum was established in the 90s and currently is considered an effective Framework and used widely between many small and big companies. Scrum’s feature is simple and easy to apply.
+
+Scrum incorporates a distribution rhythm called a Sprint (a repeating phrase of a Scrum). Sprints last from a week to a month and continue to keep projects progressing as fast as possible. Four key events happen in each sprint.
+
+Makes plans to determine the sprint priorities.
+Daily Scrum Calls/Meetings – Development Team has a meeting for 15 minutes/day to track the team's progress against the sprint goals and identify blockers.
+Sprint Review - Development Team collaborates and exchanges opinions/views on completed tasks and adjusts backlog as required.
+Sprint Retrospective - This is a great learning experience for the Development Team. The group discusses openly key items that have been successful and cases where the group fails to meet expectations to improve things for the future.
